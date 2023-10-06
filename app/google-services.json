@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209185793093",
+    "firebase_url": "https://tu-cancha-664fd-default-rtdb.firebaseio.com",
+    "project_id": "tu-cancha-664fd",
+    "storage_bucket": "tu-cancha-664fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209185793093:android:ea79b918d398d1e25b6f2c",
+        "android_client_info": {
+          "package_name": "cr.o.cdc.tucancha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209185793093-3fou7gk9m8fk5qucljm4i86tm9l1k8qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQETMSyEZo1kldkGU0XERqBDmUP5qdTWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209185793093-3fou7gk9m8fk5qucljm4i86tm9l1k8qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

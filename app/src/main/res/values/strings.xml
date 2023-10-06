@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tu Cancha</string>
+    <string name="error">¡Ups! Parece que algo salió mal. Por favor, inténtalo nuevamente.</string>
+    <string name="retry">Reintentar!</string>
+</resources>
